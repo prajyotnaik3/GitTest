@@ -1,2 +1,3 @@
 This is our third test file.
 We have modified this file to conatin a second line.
+And this is a third line.

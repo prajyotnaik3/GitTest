@@ -1,1 +1,2 @@
 This is our fourth test file.
+We have modified this file to have a second file.
